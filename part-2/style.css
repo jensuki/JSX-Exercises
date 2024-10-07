@@ -1,0 +1,19 @@
+* {
+    font-family: arial;
+}
+
+.tweet {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.tweet p {
+    margin: 5px 0;
+}
+
+.tweet small {
+    color: #757373;
+}
